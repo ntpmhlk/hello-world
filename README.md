@@ -1,6 +1,5 @@
 # hello-world
-Just another repository
 
-Hi Humans!
+Hey everyone!
 
-Hubot here, 
+I'm here to learn how to use GitHub and push myself forward. Keep going.
